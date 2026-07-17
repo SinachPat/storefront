@@ -9,6 +9,8 @@
 | **Last updated** | 2026-07-17 |
 | **Reviewers** | IG Commerce Design Manager, Commerce Engineering, Content Design, Data Science, Trust & Safety/Policy |
 
+**Related docs:** [Implementation Guide](docs/IMPLEMENTATION_GUIDE.md) · [Claude Code Prompt Document](docs/CLAUDE_CODE_PROMPT.md)
+
 ---
 
 ## 1. TL;DR

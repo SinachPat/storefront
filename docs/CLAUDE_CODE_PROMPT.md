@@ -1,6 +1,6 @@
 # Claude Code Prompt Document — Creator Storefront Prototype
 
-Companion to [PRD.md](./PRD.md) and [IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md). This document is a **ready-to-paste prompt set** for using Claude Code to build the clickable prototype referenced in the Implementation Guide §4 — the vehicle for diary-study-informed concept testing and swipe-past pressure testing (§5), *not* production Instagram code.
+Companion to the [PRD](../README.md) and [IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md). This document is a **ready-to-paste prompt set** for using Claude Code to build the clickable prototype referenced in the Implementation Guide §4 — the vehicle for diary-study-informed concept testing and swipe-past pressure testing (§5), *not* production Instagram code.
 
 Read this before running anything: the goal is a **research prototype** good enough for moderated usability sessions and stakeholder review, not a shippable feature. Every prompt below is written with that guardrail baked in.
 

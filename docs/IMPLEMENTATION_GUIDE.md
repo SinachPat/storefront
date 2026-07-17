@@ -1,6 +1,6 @@
 # Implementation Guide — Creator Storefront: Shopping Hub Redesign
 
-Companion to [PRD.md](./PRD.md). This document is written for the design team running the day-to-day work, plus the engineering, content design, and data science partners they sync with. It translates the PRD's requirements into a runnable plan: research protocols, prototype specs, component inventory, API contract questions, experiment mechanics, and rollout sequencing.
+Companion to the [PRD](../README.md). This document is written for the design team running the day-to-day work, plus the engineering, content design, and data science partners they sync with. It translates the PRD's requirements into a runnable plan: research protocols, prototype specs, component inventory, API contract questions, experiment mechanics, and rollout sequencing.
 
 ---
 
