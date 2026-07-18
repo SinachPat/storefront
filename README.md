@@ -5,7 +5,7 @@
 | **Team** | Instagram Creators & Commerce |
 | **Tags** | Shopping · Discovery · Native Commerce · Monetization |
 | **Status** | Draft v0.1 — for design review |
-| **Doc owner** | *[Design lead — fill in]* |
+| **Doc owner** | *Osinachi Patrick* |
 | **Last updated** | 2026-07-17 |
 | **Reviewers** | IG Commerce Design Manager, Commerce Engineering, Content Design, Data Science, Trust & Safety/Policy |
 
@@ -200,7 +200,7 @@ Each concept must support: product image, price, availability state, and a save/
 | **Trust & Safety / Policy** | Sponsored-disclosure compliance, restricted-category filtering, link-out interstitial pattern approval |
 | **IG Commerce Design Manager** | Weekly directional critique and go/no-go on concept selection |
 
-## 16. Timeline & Milestones *(illustrative — align with team's actual sprint calendar)*
+## 16. Timeline & Milestones
 
 | Week(s) | Milestone |
 |---|---|
